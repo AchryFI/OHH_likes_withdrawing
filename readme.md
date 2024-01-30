@@ -2,5 +2,4 @@
 
 Haven't started writing code yet
 
-
-www
+[You can try it out here](https://hjtbrz.mcfuns.cn/game/index.html)
